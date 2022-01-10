@@ -4,7 +4,7 @@ A Unity plugin for easy creation of synthetic datasets for NeRF is presented (Re
 
 To use, drag and drop the "nerf-plugin" folder into your Unity's project Assets folder. A new Unity window to create datasets can then be found in the Unity's Window tab (top-left). Be sure to create a new tag in unity called "ProCam" before use. A much more detailed guide and explanation of the inner workings can be found in the latex paper in this repository. Results that can be expected by NeRF using this tool: [NeRF result video](https://user-images.githubusercontent.com/32450751/134493567-9afd8f72-4be1-47af-a3c8-c2239ce79641.mp4)
 
-Youtube tutorial: ... missing for now ...
+Youtube tutorial: https://youtu.be/iZZh4I_UEBg
 
 ![UnityCapture](https://user-images.githubusercontent.com/32450751/148696613-df457232-7c66-43be-a7bb-fe1f0ea95f48.png)
 
