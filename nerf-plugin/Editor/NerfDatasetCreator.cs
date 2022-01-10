@@ -57,7 +57,7 @@ public class NerfDatasetCreator : EditorWindow
     [MenuItem("Window/NeRF Dataset Creator")]
     public static void ShowWindow()
     {
-        GetWindow<CameraArrayWindow>("NeRF Dataset Creator");
+        GetWindow<NerfDatasetCreator>("NeRF Dataset Creator");
     }
 
     private void OnGUI()
