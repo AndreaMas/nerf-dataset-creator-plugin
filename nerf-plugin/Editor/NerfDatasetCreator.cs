@@ -302,7 +302,7 @@ public class NerfDatasetCreator : EditorWindow
         numCameras = numViewsTest;
         isValData = false;
         isTestData = true;
-        switch (indexTrain)
+        switch (indexTest)
         {
             case 0:
                 SpawnCameraArray();
