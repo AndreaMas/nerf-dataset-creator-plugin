@@ -7,7 +7,8 @@ A Unity plugin for easy creation of synthetic datasets for NeRF is presented (Ne
 The plugin simply spawns cameras around a target, capturing images from them (& additional data). 
 
 A simple GUI is provided to help the user choose: 
-- which game object to target; how many cameras are spawned and in what configuration,
+- which game object to target,
+- how many cameras are spawned and in what configuration,
 - how many images are wanted for training testing and validation. 
 
 The output file contains:
