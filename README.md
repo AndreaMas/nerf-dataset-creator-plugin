@@ -2,9 +2,9 @@
 
 ![UnityCapture](https://user-images.githubusercontent.com/32450751/148696613-df457232-7c66-43be-a7bb-fe1f0ea95f48.png)
 
-A Unity plugin for easy creation of synthetic datasets for NeRF is presented (Neural Radiance Fields: https://www.matthewtancik.com/nerf). The output dataset file is identical to the Blender data-sets used in the original NeRF paper. 
+A Unity plugin for easy creation of synthetic datasets for NeRF is presented (Neural Radiance Fields: https://www.matthewtancik.com/nerf). 
 
-The plugin simply spawns cameras around a target, capturing images from them (& additional data). 
+The plugin simply spawns cameras around a target, capturing images from them (& additional data). The output dataset folder is identical to the Blender datasets used in the original NeRF paper. 
 
 A simple GUI is provided to help the user choose: 
 - which game object to target,
