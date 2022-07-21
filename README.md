@@ -13,7 +13,7 @@ A simple GUI is provided to help the user choose:
 
 The output file contains:
 - the captured images, 
-- the ground-truth position and orientation of such cameras, 
+- the extrinsics (position and orientation) and field-of-view of such cameras, 
 - depth and normal maps for final NeRF evaluation purposes. 
 
 To use, drag and drop the "nerf-plugin" folder into your Unity's project Assets folder. A new Unity window to create datasets can then be found in the Unity's Window tab (top-left). Be sure to create a new tag in unity called "ProCam" before use. A much more detailed guide and explanation of the inner workings can be found in the latex paper in this repository. 
