@@ -32,6 +32,7 @@ Results that can be expected by NeRF using this tool:
 ![expected-result-nerf-plugin](https://user-images.githubusercontent.com/32450751/189521972-1de0d74b-0453-4d62-822e-007c3e457688.gif)
 
 Example of generated images and blender-like file structure:
+
 ![Dataset Structure](https://user-images.githubusercontent.com/32450751/148696633-4c8b630e-e9a4-4aec-937e-7df52003a325.png)
 
 
