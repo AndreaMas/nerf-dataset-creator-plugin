@@ -5,7 +5,7 @@
 
 ## What is this?
 
-A Unity Plugin for easy creation of synthetic datasets for NeRF is presented (Neural Radiance Fields: https://www.matthewtancik.com/nerf). 
+A Unity Plugin for easy creation of synthetic datasets for [NeRF](https://www.matthewtancik.com/nerf) is presented. 
 
 The plugin simply spawns cameras around a target, capturing images from them (& additional data). The output dataset folder is identical to the Blender datasets used in the original NeRF paper. 
 
